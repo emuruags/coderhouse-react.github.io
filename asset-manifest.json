@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/emuruags/coderhouse-react.github.io/static/css/main.04179b6f.css",
+    "main.js": "/emuruags/coderhouse-react.github.io/static/js/main.7ecdf56e.js",
+    "static/js/787.3dab29b6.chunk.js": "/emuruags/coderhouse-react.github.io/static/js/787.3dab29b6.chunk.js",
+    "static/media/logo.jpg": "/emuruags/coderhouse-react.github.io/static/media/logo.d3a7873fff34b5c2f4a5.jpg",
+    "static/media/white-shopping-cart-icon.jpg": "/emuruags/coderhouse-react.github.io/static/media/white-shopping-cart-icon.befe355adf0c662b6f16.jpg",
+    "index.html": "/emuruags/coderhouse-react.github.io/index.html",
+    "main.04179b6f.css.map": "/emuruags/coderhouse-react.github.io/static/css/main.04179b6f.css.map",
+    "main.7ecdf56e.js.map": "/emuruags/coderhouse-react.github.io/static/js/main.7ecdf56e.js.map",
+    "787.3dab29b6.chunk.js.map": "/emuruags/coderhouse-react.github.io/static/js/787.3dab29b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04179b6f.css",
+    "static/js/main.7ecdf56e.js"
+  ]
+}
