@@ -29,7 +29,7 @@ function ItemListContainer( ) {
   return (
     <>
         {
-          loading   ? <img className="w-45 mx-auto " src="/img/loading.gif" alt="loading" />
+          loading   ? <img className="w-45 mx-auto " src="./img/loading.gif" alt="loading" />
                     : <Container>
                           <div className="row align-items-start m-3"> 
                               <ItemList prods={ prods } /> 
