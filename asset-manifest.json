@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/coderhouse-react.github.io/static/css/main.04179b6f.css",
-    "main.js": "/coderhouse-react.github.io/static/js/main.f7f70303.js",
+    "main.js": "/coderhouse-react.github.io/static/js/main.09645c00.js",
     "static/js/787.3dab29b6.chunk.js": "/coderhouse-react.github.io/static/js/787.3dab29b6.chunk.js",
     "static/media/logo.jpg": "/coderhouse-react.github.io/static/media/logo.d3a7873fff34b5c2f4a5.jpg",
     "static/media/white-shopping-cart-icon.jpg": "/coderhouse-react.github.io/static/media/white-shopping-cart-icon.befe355adf0c662b6f16.jpg",
     "index.html": "/coderhouse-react.github.io/index.html",
     "main.04179b6f.css.map": "/coderhouse-react.github.io/static/css/main.04179b6f.css.map",
-    "main.f7f70303.js.map": "/coderhouse-react.github.io/static/js/main.f7f70303.js.map",
+    "main.09645c00.js.map": "/coderhouse-react.github.io/static/js/main.09645c00.js.map",
     "787.3dab29b6.chunk.js.map": "/coderhouse-react.github.io/static/js/787.3dab29b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04179b6f.css",
-    "static/js/main.f7f70303.js"
+    "static/js/main.09645c00.js"
   ]
 }
